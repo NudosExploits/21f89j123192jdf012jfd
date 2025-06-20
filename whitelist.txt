@@ -1,5 +1,1 @@
-  {
-    "robloxUsername": "isiah32",
-    "discordId": "1336725567625625619"
-  }
-]
+ isiah32
